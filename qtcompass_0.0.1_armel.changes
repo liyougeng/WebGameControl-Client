@@ -1,0 +1,23 @@
+Format: 1.8
+Date: Fri, 31 May 2013 18:14:45 +0800
+Source: qtcompass
+Binary: qtcompass
+Architecture: armel
+Version: 0.0.1
+Distribution: unstable
+Urgency: low
+Maintainer: unknown <>
+Changed-By: unknown <>
+Description: 
+ qtcompass  - <insert up to 60 chars description>
+Changes: 
+ qtcompass (0.0.1) unstable; urgency=low
+ .
+   * Initial Release.
+Checksums-Sha1: 
+ 9fee0a8d30d3dcb447bf0dc785ff9edb5c51bb11 95394 qtcompass_0.0.1_armel.deb
+Checksums-Sha256: 
+ 3ca2bb79c612bb78a30933a092d6a011c624980ede1d207c4377e0474002d612 95394 qtcompass_0.0.1_armel.deb
+Files: 
+ 18f9c3d4cad1c0299c315a58692e7fe1 95394 user/other optional qtcompass_0.0.1_armel.deb
+Maemo-Display-Name: QtCompass

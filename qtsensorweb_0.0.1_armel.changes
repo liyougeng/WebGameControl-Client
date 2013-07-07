@@ -1,0 +1,23 @@
+Format: 1.8
+Date: Tue, 25 Jun 2013 19:14:45 +0800
+Source: qtsensorweb
+Binary: qtsensorweb
+Architecture: armel
+Version: 0.0.1
+Distribution: unstable
+Urgency: low
+Maintainer: unknown <>
+Changed-By: unknown <>
+Description: 
+ qtsensorweb - <insert up to 60 chars description>
+Changes: 
+ qtsensorweb (0.0.1) unstable; urgency=low
+ .
+   * Initial Release.
+Checksums-Sha1: 
+ af23f3ac72e77dbd92e42e72fa21f2e4e2490dc8 98368 qtsensorweb_0.0.1_armel.deb
+Checksums-Sha256: 
+ 64a058eb97011607f76db2e8cbef6b4296310766fdc608f183605ede2f3439fc 98368 qtsensorweb_0.0.1_armel.deb
+Files: 
+ e5574d9a6f6a55ad7d8691115491ed3b 98368 user/other optional qtsensorweb_0.0.1_armel.deb
+Maemo-Display-Name: QtSensorWeb
